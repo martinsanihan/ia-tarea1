@@ -1,0 +1,8 @@
+ipywidgets
+matplotlib
+networkx
+notebook
+pandas
+pgmpy
+numpy
+hmmlearn
